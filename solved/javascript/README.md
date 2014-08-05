@@ -1,0 +1,2 @@
+ * [Original](jed)
+ * [Shortest](EamonNerbonne)
